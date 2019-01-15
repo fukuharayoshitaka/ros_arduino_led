@@ -1,5 +1,5 @@
 # ros_arduino_led
-Communicate arduino and raspberryPi using ROS and light one LED.
+Communicate arduino and raspberryPi 3B using ROS and light one LED.
 
 #Overview
 Communicating with arduino Uno and Raspberry Pi 3B with Ros serial.
@@ -16,7 +16,7 @@ When ”1”, LED lights up.
 When ”0”, LED turn off.
 
 ## Demonstration
--https://youtu.be/JznLMOIqXDE
+-
 
 ## Requirements
 - Raspberry Pi 3 Model B
