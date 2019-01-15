@@ -10,7 +10,7 @@ Node (talker - 6062 - 1529308414440) is Pablish to Topic (chatter).
 1 and 0 are alternately displayed every second.
 
 -Arduino side
-After receiving the message, the function called callback moves.
+After receiving the message, the function "called callback" moves.
 
 When ”1”, LED lights up.
 When ”0”, LED turn off.
